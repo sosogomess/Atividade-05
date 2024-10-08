@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    background-color: #82d8d8;
+    display: flex;  
+}
+
+header {
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgb(80, 200, 255);
+  }
+  
